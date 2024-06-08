@@ -79,3 +79,18 @@ css
 Copy code
 
 This README provides a comprehensive overview of the project, including installation instructions, usage guidelines, and implementation details. Feel free to customize it further based on specific requirements or additional features of your project.
+```
+SENDER SCREEN
+
+![PIC1](https://github.com/Yoriichi17/JITHACK-2024/assets/119602813/5ead93f4-d696-4f6f-b4e9-b6f241531b3b)
+![PIC2](https://github.com/Yoriichi17/JITHACK-2024/assets/119602813/4ade6ae9-5e70-4c59-8aad-d3da561cc42c)
+![PIC3](https://github.com/Yoriichi17/JITHACK-2024/assets/119602813/8cc190c0-e503-4949-ac3d-8d59bd929e65)
+![PIC4](https://github.com/Yoriichi17/JITHACK-2024/assets/119602813/b95c3e00-f83b-4ad3-b8b6-f5bfb8764dc7)
+
+RECIEVER SCREEN
+![PIC5](https://github.com/Yoriichi17/JITHACK-2024/assets/119602813/cca62270-01da-46b2-8ec7-15ea15bd330b)
+
+
+
+
+
